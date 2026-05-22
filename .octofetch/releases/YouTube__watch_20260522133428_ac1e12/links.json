@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5960",
+  "folder": "YouTube__watch_20260522133428_ac1e12",
+  "base_name": "VINAK_MIGA_REACTION_-_nh3DmXn7gKM_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/yasproject/Cloud-Downloads-1/releases/tag/co-releases-v1-5960",
+  "files": [
+    {
+      "name": "VINAK_MIGA_REACTION_-_nh3DmXn7gKM_720p.mp4",
+      "url": "https://github.com/yasproject/Cloud-Downloads-1/releases/download/co-releases-v1-5960/VINAK_MIGA_REACTION_-_nh3DmXn7gKM_720p.mp4",
+      "api_url": "https://api.github.com/repos/yasproject/Cloud-Downloads-1/releases/assets/427103730",
+      "id": 427103730,
+      "size": 104537989,
+      "download_count": 0
+    }
+  ]
+}
